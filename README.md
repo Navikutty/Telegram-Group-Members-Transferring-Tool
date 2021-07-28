@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/termuxprofessor">
+  <a href="https://github.com/Navikutty">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
   <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
@@ -34,7 +34,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://github.com/Navikutty/Telegram-Group-Members-Transferring-Tool`
 
 `$ cd Telegram-Scraper-Adder`
 
@@ -51,8 +51,11 @@
 `$ python adder.py`
 
 ## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
+* 
 ---
+## . Face Any Problem Contact me On Telegram
+https://t.me/Naveen_Admin
+
 
 <p align="center">
   Follow Me On
